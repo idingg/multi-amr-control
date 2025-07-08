@@ -1,0 +1,6 @@
+[submodule "src/multi-amr-control/sjtu_drone"]
+	path = src/multi-amr-control/sjtu_drone
+	url = https://github.com/NovoG93/sjtu_drone.git
+[submodule "src/multi-amr-control/turtlebot3_multi_robot"]
+	path = src/multi-amr-control/turtlebot3_multi_robot
+	url = https://github.com/arshadlab/turtlebot3_multi_robot.git
